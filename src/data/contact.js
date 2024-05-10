@@ -25,7 +25,7 @@ const data = [
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/in/michaelldangelo',
+    link: 'https://www.linkedin.com/in/haritha-devarakonda/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
@@ -40,7 +40,7 @@ const data = [
     icon: faTwitter,
   },
   {
-    link: 'mailto:michael.l.dangelo@gmail.com',
+    link: 'mailto:haritha1995@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },
