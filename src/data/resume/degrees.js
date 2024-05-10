@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Bits Pilani, Goa, India',
+    degree: 'M.Sc. Economics',
+    link: 'https://www.bits-pilani.ac.in/goa/',
+    year: 218,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
+    school: 'Bits Pilani, Goa, India',
+    degree: 'B.E. Computer Science',
     link: 'https://buffalo.edu',
-    year: 2012,
+    year: 2018,
   },
 ];
 
