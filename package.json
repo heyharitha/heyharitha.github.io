@@ -24,7 +24,8 @@
     "react-ga": "^3.3.1",
     "react-helmet-async": "^2.0.4",
     "react-router-dom": "^6.22.3",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^2.1.4"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.23.10",
@@ -33,6 +34,7 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^14.1.2",
     "@testing-library/user-event": "^14.5.2",
+    "babel-jest": "^29.7.0",
     "eslint": "^8.57.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-import": "^2.29.1",
@@ -41,8 +43,7 @@
     "react-snap": "^1.23.0",
     "rimraf": "^5.0.5",
     "sass": "^1.71.1",
-    "source-map-explorer": "^2.5.3",
-    "web-vitals": "^2.1.4"
+    "source-map-explorer": "^2.5.3"
   },
   "scripts": {
     "analyze": "npm run build && source-map-explorer build/static/js/*.chunk.js",
