@@ -1,6 +1,6 @@
 # Personal Website
 
-Welcome to my [personal website](https://heyharitha.github.io/)! This is an [MIT licensed](https://github.com/mldangelo/personal-site/blob/main/LICENSE) React-based Jamstack application. It offers a simple interface, easy modifications, static export capabilities, and free automatic deployments via [GitHub Pages](https://pages.github.com/).
+Welcome to my [personal website](https://heyharitha.github.io/)! This is an [MIT licensed](https://github.com/heyharitha/heyharitha.github.io/blob/main/LICENSE) React-based Jamstack application. It offers a simple interface, easy modifications, static export capabilities, and free automatic deployments via [GitHub Pages](https://pages.github.com/).
 
 ## 🚀 Features
 
@@ -17,8 +17,8 @@ Ensure you have [node](https://nodejs.org/) >= v16. Optionally, use [nvm](https:
 1. Clone the repository:
 
     ```bash
-    git clone git://github.com/mldangelo/personal-site.git
-    cd personal-site
+    git clone https://github.com/heyharitha/heyharitha.github.io.git
+    cd heyharitha.github.io
     ```
 
 2. (Optional) Ensure you're on Node v16 or higher:
