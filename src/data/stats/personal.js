@@ -27,9 +27,14 @@ const data = [
   {
     key: 'countries',
     label: 'Countries visited',
-    value: 53,
+    value: 15,
     link:
-      'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
+      'https://www.google.com/maps/d/u/0/edit?mid=1Bkp5dT7anlaB32y3h5qzzvfJjPhHNCo&usp=sharing',
+  },
+  {
+    key: 'instruments',
+    label: 'Music instruments I play',
+    value: 4,
   },
   {
     key: 'location',
